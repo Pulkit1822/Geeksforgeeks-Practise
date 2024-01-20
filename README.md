@@ -6,16 +6,15 @@
 
 ## Overview
 
-Welcome to my personal Geeksforgeeks Daily Challenge Solutions repository! This is where I share my daily solutions for the Geeksforgeeks problems. I'm committed to updating this repository regularly with new solutions as I tackle the daily challenges. It's not just a coding journey; it's a commitment to continuous improvement.
-
-Feel free to explore the solutions, provide feedback, and use them as a reference to enhance your own coding skills.
+Welcome to my Geeksforgeeks Daily Challenge Solutions repository! Here, you'll find my daily solutions for the Geeksforgeeks problems. Explore, use them as a reference, and happy coding!
 
 ## Features
 
 - **Daily Updates:** Regularly updated with a new solution.
-- **Organized Structure:** Solutions are organized by date and problem name for easy navigation.
-- **Explanation:** Each solution includes a brief explanation of the approach used.
-- **Various Languages:** Solutions are provided in multiple programming languages.
+- **Organized Structure:** Solutions are categorized by date and problem name.
+- **Various Languages:** Solutions provided in multiple programming languages.
+- **Question in README:** Each solution directory includes the corresponding question in the README.
+
 
 ## Contribution
 
