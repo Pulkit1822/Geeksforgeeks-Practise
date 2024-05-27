@@ -1,4 +1,4 @@
-# Geeksforgeeks Daily Challenge Solutions
+# [Geeksforgeeks Solutions](https://github.com/Pulkit1822/Geeksforgeeks-Practise)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Geeksforgeeks-Daily%20Challenge-brightgreen.svg" alt="Geeksforgeeks Daily Challenge">
@@ -12,7 +12,7 @@ Welcome to my Geeksforgeeks Daily Challenge Solutions repository! Here, you'll f
 
 - **Daily Updates:** Regularly updated with a new solution.
 - **Organized Structure:** Solutions are categorized by date and problem name.
-- **Various Languages:** Solutions provided in multiple programming languages.
+- **Various Languages:** Solutions provided in multiple programming languages(C++ and Java).
 - **Question in README:** Each solution directory includes the corresponding question in the README.
 
 
@@ -34,8 +34,11 @@ If you have any feedback, suggestions, or questions regarding this repository, p
 </p>
 
 
+
 Happy learning and coding!
 
 ---
 
 If you find this repository useful, don't forget to star it! ⭐️
+
+### Written by [Pulkit](https://github.com/Pulkit1822)
