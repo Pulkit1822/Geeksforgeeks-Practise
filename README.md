@@ -1,8 +1,10 @@
-# [Geeksforgeeks Solutions](https://github.com/Pulkit1822/Geeksforgeeks-Practise)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Geeksforgeeks-Daily%20Challenge-brightgreen.svg" alt="Geeksforgeeks Daily Challenge">
+  <a href="https://github.com/Pulkit1822/Geeksforgeeks-Practise">
+    <img src="https://github.com/Pulkit1822/Geeksforgeeks-Practise/blob/main/assets/gfg.jpeg" height="128">
+  </a>
+  <h1 align="center">Geeksforgeeks-Practise</h1>
 </p>
+
 
 ## Overview
 
