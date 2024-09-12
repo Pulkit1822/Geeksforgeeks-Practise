@@ -6,34 +6,32 @@ using namespace std;
 
 // } Driver Code Ends
 // User function template for C++
+#include <vector>
+#include <algorithm>
+#include <limits.h>
+
+using namespace std;
+
 class Solution {
   public:
-    // Function returns the second
-    // largest elements
+    // Function returns the second largest element
     int print2largest(vector<int> &arr) {
-        int maximum = arr[0];
         int n = arr.size();
-        for (int i = 0; i < n; i++)
-        {
-            if (arr[i] > maximum )
-            {
-                maximum = arr[i];
-            }
-            
+        if (n < 2) {
+            return -1; // Not enough elements to find the second largest
         }
-        int second = -1;
-        for (int i = 0; i < n; i++)
-        {
-            if (arr[i] > second && arr[i] != maximum )
-            {
+
+        int first = INT_MIN, second = INT_MIN;
+        for (int i = 0; i < n; i++) {
+            if (arr[i] > first) {
+                second = first;
+                first = arr[i];
+            } else if (arr[i] > second && arr[i] != first) {
                 second = arr[i];
             }
-            
         }
-        return second;
-    
-        
-        // Code Here
+
+        return (second == INT_MIN) ? -1 : second;
     }
 };
 
