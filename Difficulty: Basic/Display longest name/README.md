@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/display-longest-name0853/0">Display longest name</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a list of names, display the longest name. If there are multiple names of the longest size, return the <strong>first</strong> occurring name.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>names[]= ["Geek", "Geeks", "Geeksfor", "GeeksforGeek", "GeeksforGeeks"]</span>
+<span style="font-size: 18px;"><strong>Output: </strong>GeeksforGeeks<br><strong>Explanation:</strong> name "<strong>GeeksforGeeks</strong>" has maximum length among all names. <br></span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>names[]=["Apple", "Mango", "Orange", "Banana"]
+<strong>Output: </strong>Orange</span><br><span style="font-size: 14pt;"><strong>Explanation:</strong> names "Orange" and "Banana" both have maximum length among all names but Orange comes first so answer will be "<strong>Orange</strong>". </span></pre>
+<p><span style="font-size: 18px;"><strong>Expected Time Complexity:</strong>&nbsp;O(n)<br><strong>Expected Auxiliary Space:</strong>&nbsp;O(1)</span></p>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong></span><br><span style="font-size: 18px;">1 &lt;= names.size()&lt;= 1000</span><br><span style="font-size: 18px;">1 &lt;= size(names[i]) &lt;= 1000<br>names[i] has only lowercase and uppercase letters</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Strings</code>&nbsp;<code>Data Structures</code>&nbsp;
