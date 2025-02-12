@@ -2,13 +2,13 @@
   <a href="https://github.com/Pulkit1822/Geeksforgeeks-Practise">
     <img src="https://github.com/Pulkit1822/Geeksforgeeks-Practise/blob/main/assets/gfg.jpeg" height="128">
   </a>
-  <h1 align="center">Geeksforgeeks-Practise</h1>
+  <h1 align="center">Geeksforgeeks</h1>
 </p>
 
 
 ## Overview
 
-Welcome to my Geeksforgeeks Daily Challenge Solutions repository! Here, you'll find my daily solutions for the Geeksforgeeks problems. Explore, use them as a reference, and happy coding!
+Welcome to my Geeksforgeeks repository! Here, you'll find my solutions for the Geeksforgeeks problems. Explore, use them as a reference, and happy coding!
 
 ## Features
 
